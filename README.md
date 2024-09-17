@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Bodhi Yang! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=5CBDD8&center=true&vCenter=true&width=435&lines=Senior+Data+Scientist;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=5CBDD8&center=true&vCenter=true&width=435&lines=AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
